@@ -5,7 +5,7 @@ First two numbers are taken as input by user. The program performs Addition, Sub
 
 Task 2: Create a Personalized Greeting.
 
-First it takes first name and last name as input from user. Then print statement is used to print the simple greeting.
+It takes first name and last name as input from user. Then print statement is used to print the simple greeting.
 
 
 
